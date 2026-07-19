@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="sq">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SHEFKI DISTRIBUCIJA — Ujë, pije & furnizime</title>
+    <meta
+      name="description"
+      content="SHEFKI DISTRIBUCIJA — ujë mineral, pije dhe furnizime për lokale. Telefono 070-587-672."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Anton&family=Outfit:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="logo" href="#top" aria-label="SHEFKI DISTRIBUCIJA">
+        <span class="logo-mark">S</span>
+        <span class="logo-text">SHEFKI</span>
+      </a>
+      <nav class="nav" aria-label="Kryesore">
+        <a href="#produkte">Produktet</a>
+        <a href="#kontakt">Kontakt</a>
+      </nav>
+      <a class="header-phone" href="tel:070587672">070-587-672</a>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-label="Kryefaqja">
+        <div class="hero-media" aria-hidden="true">
+          <img
+            src="assets/p1-img1.png"
+            alt=""
+            class="hero-img"
+            width="1200"
+            height="1200"
+          />
+          <div class="hero-wash"></div>
+        </div>
+
+        <div class="hero-content">
+          <p class="brand">SHEFKI DISTRIBUCIJA</p>
+          <h1>Ujë, pije dhe furnizime për biznesin tuaj.</h1>
+          <p class="lede">
+            Katalogu ynë për lokale, kafene dhe dyqane — dorëzim i shpejtë në
+            zonën tuaj.
+          </p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="tel:070587672">Telefono tani</a>
+            <a class="btn btn-ghost" href="#produkte">Shiko produktet</a>
+          </div>
+        </div>
+
+        <div class="hero-rail" aria-hidden="true"></div>
+      </section>
+
+      <section class="products" id="produkte">
+        <div class="section-head">
+          <h2>Produktet</h2>
+          <p>Zgjidhni kategorinë dhe gjeni atë që ju duhet.</p>
+        </div>
+
+        <div class="filters" role="tablist" aria-label="Kategoritë">
+          <button class="filter is-active" data-filter="all" role="tab" aria-selected="true">
+            Të gjitha
+          </button>
+          <button class="filter" data-filter="uje" role="tab" aria-selected="false">Ujë</button>
+          <button class="filter" data-filter="pije" role="tab" aria-selected="false">Pije</button>
+          <button class="filter" data-filter="furnizime" role="tab" aria-selected="false">
+            Furnizime
+          </button>
+        </div>
+
+        <div class="product-grid" id="product-grid"></div>
+      </section>
+
+      <section class="contact" id="kontakt">
+        <div class="contact-inner">
+          <p class="contact-label">Porositë & informacion</p>
+          <h2>Na kontaktoni</h2>
+          <p class="contact-copy">
+            Thirrni për listën e çmimeve, sasi të mëdha ose dorëzim.
+          </p>
+          <a class="phone-display" href="tel:070587672">070-587-672</a>
+          <a class="btn btn-primary" href="tel:070587672">Telefono tani</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p><strong>SHEFKI DISTRIBUCIJA</strong></p>
+      <p>
+        <a href="tel:070587672">070-587-672</a>
+      </p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

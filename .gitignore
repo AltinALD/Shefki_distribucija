@@ -1,0 +1,18 @@
+desktop.ini
+Thumbs.db
+.DS_Store
+*.tmp
+
+# Raw PDF page dumps / duplicate extracts (catalog crops are in assets/products)
+assets/page-*.png
+assets/p2-img*
+assets/p3-img*
+assets/p4-img*
+assets/p5-img*
+assets/p6-img*
+assets/p7-img*
+assets/p8-img*
+assets/products/p*.jpg
+
+# Duplicate source photo (used as assets/products/36.jpg)
+7154EzxGEzL._AC_UF894,1000_QL80_.jpg
