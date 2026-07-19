@@ -10,6 +10,7 @@ const PRODUCTS = [
   { name: "Jadran Politank", category: "furnizime", image: "assets/products/12.jpg" },
   { name: "Gotë letre", category: "furnizime", image: "assets/products/13.jpg" },
   { name: "Lugë kafe", category: "furnizime", image: "assets/products/14.jpg" },
+  { name: "Pirun plastik për patate", category: "furnizime", image: "assets/products/39.jpg" },
   { name: "Gota plastike", category: "furnizime", image: "assets/products/15.jpg" },
   { name: "Sheqer fishek", category: "furnizime", image: "assets/products/16.jpg" },
   { name: "Faculeta set", category: "furnizime", image: "assets/products/17.jpg" },
