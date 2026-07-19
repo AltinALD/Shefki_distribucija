@@ -10,7 +10,7 @@
     "image": "assets/products/02.jpg"
   },
   {
-    "name": "Dea ujë plastik 0.33L / 0.5L",
+    "name": "Dea ujë plastik 0.33/0.5L",
     "category": "uje",
     "image": "assets/products/03.jpg"
   },
@@ -25,29 +25,14 @@
     "image": "assets/products/05.jpg"
   },
   {
-    "name": "Ujë Tepelena 0.33L",
+    "name": "Gorska ujë gazuar 330ml",
     "category": "uje",
-    "image": "assets/products/06.jpg"
-  },
-  {
-    "name": "Ujë Tepelena me gaz 0.33L",
-    "category": "uje",
-    "image": "assets/products/07.jpg"
-  },
-  {
-    "name": "FruttaVit Lemon 0.33L",
-    "category": "pije",
-    "image": "assets/products/08.jpg"
+    "image": "assets/products/37.jpg"
   },
   {
     "name": "FruttaVit Pjeshk Ice Tea 0.33L",
     "category": "pije",
     "image": "assets/products/09.jpg"
-  },
-  {
-    "name": "Dr.Fruit Exotica 0.25L",
-    "category": "pije",
-    "image": "assets/products/10.jpg"
   },
   {
     "name": "COCOX Çokolladë",
@@ -98,6 +83,11 @@
     "name": "Kese 49",
     "category": "furnizime",
     "image": "assets/products/20.jpg"
+  },
+  {
+    "name": "Kese të zeza",
+    "category": "furnizime",
+    "image": "assets/products/38.jpg"
   },
   {
     "name": "Avşar Karadaut",

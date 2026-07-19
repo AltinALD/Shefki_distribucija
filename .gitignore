@@ -14,5 +14,11 @@ assets/p7-img*
 assets/p8-img*
 assets/products/p*.jpg
 
-# Duplicate source photo (used as assets/products/36.jpg)
+# Duplicate source photos (copied into assets/products/)
 7154EzxGEzL._AC_UF894,1000_QL80_.jpg
+grska plstick.jpeg
+black trash_kese.jpeg
+
+# Flyer PNG previews (PDF is the print file)
+flyer-a4-front.png
+flyer-a4-back.png
