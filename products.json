@@ -120,6 +120,11 @@
     "image": "assets/products/25.jpg"
   },
   {
+    "name": "Letër hamburger",
+    "category": "furnizime",
+    "image": "assets/products/40.jpg"
+  },
+  {
     "name": "Avşar Dardhë–Bostan",
     "category": "pije",
     "image": "assets/products/26.jpg"

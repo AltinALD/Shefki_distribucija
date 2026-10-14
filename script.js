@@ -23,6 +23,7 @@ const PRODUCTS = [
   { name: "Avşar Lime", category: "pije", image: "assets/products/23.jpg" },
   { name: "Avşar Mango / Ananas", category: "pije", image: "assets/products/24.jpg" },
   { name: "Kuti pica 30×30 / 25×25 cm", category: "furnizime", image: "assets/products/25.jpg" },
+  { name: "Letër hamburger", category: "furnizime", image: "assets/products/40.jpg" },
   { name: "Avşar Dardhë–Bostan", category: "pije", image: "assets/products/26.jpg" },
   { name: "Avşar Lemon", category: "pije", image: "assets/products/27.jpg" },
   { name: "Avşar Gazoz", category: "pije", image: "assets/products/28.jpg" },
